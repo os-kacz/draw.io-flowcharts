@@ -253,7 +253,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJp_mqwVn2AKoj8mRflq-21" value="&lt;div&gt;Compile all pipes to be checked&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YJp_mqwVn2AKoj8mRflq-21" value="&lt;div&gt;Check all 4 cardinal directions, then&lt;/div&gt;&lt;div&gt;compile all pipes to be checked&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJp_mqwVn2AKoj8mRflq-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YJp_mqwVn2AKoj8mRflq-22" target="x1WwE9KoJjIle77bkikw-58">
@@ -303,6 +303,11 @@
         </mxCell>
         <mxCell id="YJp_mqwVn2AKoj8mRflq-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YJp_mqwVn2AKoj8mRflq-41" target="YJp_mqwVn2AKoj8mRflq-114">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJp_mqwVn2AKoj8mRflq-124" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YJp_mqwVn2AKoj8mRflq-115">
+          <mxGeometry x="-0.2869" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YJp_mqwVn2AKoj8mRflq-41" value="Are any of the compiled pipes the end?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="390" width="131" height="92" as="geometry" />
@@ -400,10 +405,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YJp_mqwVn2AKoj8mRflq-114" value="&lt;div&gt;Can the end be&lt;/div&gt;&lt;div&gt;connected?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="408.25" y="503" width="114.5" height="80" as="geometry" />
+          <mxGeometry x="408.25" y="524.07" width="114.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YJp_mqwVn2AKoj8mRflq-117" value="Lose!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="528" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="549.07" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
